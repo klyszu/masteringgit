@@ -4,3 +4,4 @@ burbon
 whiskey
 piwo
 tequila
+brandy
