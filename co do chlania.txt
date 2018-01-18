@@ -2,3 +2,6 @@ wóda
 gin
 burbon
 whiskey
+piwo
+tequila
+brandy
