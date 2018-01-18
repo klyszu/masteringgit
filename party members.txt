@@ -13,5 +13,6 @@ Andzela,
 Monika,
 I jej siostra,
 Grazyna,
+Jola
 Dominik,
 Agnes
