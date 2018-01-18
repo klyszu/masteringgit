@@ -3,6 +3,7 @@ kiełbasa
 frytki
 sushi
 zupa pomidorowa z makaronem
-cepeliny
+cepeliny,
 ciasto
+karmel
 kurczak tajski
