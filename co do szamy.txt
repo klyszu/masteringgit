@@ -9,4 +9,8 @@ karmel
 kurczak tajski,
 coś
 coś2,
+spaghetti,
+owoce
 papryka faszerowana
+spaghetti,
+owoce
