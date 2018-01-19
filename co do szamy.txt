@@ -7,4 +7,5 @@ cepeliny,
 ciasto
 karmel
 kurczak tajski,
-spaghetti
+spaghetti,
+owoce
