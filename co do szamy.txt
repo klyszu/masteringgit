@@ -9,3 +9,6 @@ karmel
 kurczak tajski,
 spaghetti,
 owoce
+papryka faszerowana
+spaghetti,
+owoce
