@@ -8,4 +8,5 @@ ciasto
 karmel
 kurczak tajski,
 papryka faszerowana
-spaghetti
+spaghetti,
+owoce
