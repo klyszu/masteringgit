@@ -18,3 +18,5 @@ Dominik,
 Agnes,
 Anczej,
 Wojtek
+Asia,
+Kasia
