@@ -6,4 +6,5 @@ zupa pomidorowa z makaronem
 cepeliny,
 ciasto
 karmel
-kurczak tajski
+kurczak tajski,
+spaghetti
