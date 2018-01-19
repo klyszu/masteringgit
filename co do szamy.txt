@@ -7,3 +7,4 @@ cepeliny,
 ciasto
 karmel
 kurczak tajski
+papryka faszerowana
